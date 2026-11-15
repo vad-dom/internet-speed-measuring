@@ -36,6 +36,12 @@
    python download_speed.py "https://example.com"
    ```
 
+Для просмотра справки используйте:
+
+```bash
+python download_speed.py --help
+```
+
 > **Примечание:** Указанные команды проверены на Windows.
 > На Linux и macOS команды могут отличаться, например, для запуска Python может потребоваться команда `python3` вместо `python`:
 >
@@ -43,12 +49,6 @@
 > python3 -m pip install -r requirements.txt
 > python3 download_speed.py "https://example.com"
 > ```
-
-Для просмотра справки используйте:
-
-```bash
-python download_speed.py --help
-```
 
 ## Результаты измерения
 
