@@ -32,13 +32,13 @@
 
 4. Запустите скрипт, передав URL ресурса для скачивания:
 
-   Быстрая проверка работы скрипта:
+   Например, для быстрой проверки работы скрипта:
 
    ```bash
    python download_speed.py "https://example.com"
    ```
 
-   Измерение скорости скачивания на примере JPEG-файла размером около 5 MB:
+   Например, для измерения скорости скачивания JPEG-файла размером около 5 MB:
 
    ```bash
    python download_speed.py "https://pnb-website-bucket.s3.us-east-2.amazonaws.com/samples/images/jpg/sample-image-3840x2160-5mb.jpg"
